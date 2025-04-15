@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "souiken.cn@gmail.com",
+                "Name": "Ameyama Izumi"
+            }
+        ],
+        "Category": "",
+        "Description": "Kyu-kurarin splash screen for Plasma 6",
+        "Id": "Kyu-kurarin",
+        "License": "GPLv3",
+        "Name": "Kyu-kurarin",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
